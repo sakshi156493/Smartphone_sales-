@@ -42,7 +42,7 @@ The dataset includes:
 ## 📊 Dashboard Preview  
 (Add your screenshot after uploading)
 
-![Dashboard Screenshot]("Smartphone Analysis.png")
+![Dashboard Screenshot](Smartphone Analysis.png)
 
 ---
 
