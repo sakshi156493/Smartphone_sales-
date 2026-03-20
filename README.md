@@ -1,7 +1,7 @@
-# 📱 Smartphone Sales Analysis Dashboard
+# 📱 Smartphone Sales Analysis (Excel Dashboard)
 
 ## 📌 Project Overview  
-This project focuses on analyzing smartphone sales data to uncover key trends and insights. The dashboard provides a clear visualization of sales performance across different brands, regions, and time periods using Power BI.
+This project focuses on analyzing smartphone sales data using Microsoft Excel. It provides insights into sales performance, trends, and patterns across different brands, regions, and time periods through an interactive dashboard.
 
 ---
 
@@ -10,13 +10,12 @@ This project focuses on analyzing smartphone sales data to uncover key trends an
 - Identify top-performing brands and models  
 - Understand regional sales distribution  
 - Track sales trends over time  
-- Provide data-driven business insights  
+- Generate actionable business insights  
 
 ---
 
 ## 🛠️ Tools & Technologies  
-- Power BI (Dashboard & Visualization)  
-- Microsoft Excel (Data Cleaning & Preparation)  
+- Microsoft Excel (Data Cleaning, Analysis & Dashboard)
 
 ---
 
@@ -25,7 +24,7 @@ This project focuses on analyzing smartphone sales data to uncover key trends an
 - 🏆 Top brands and models comparison  
 - 🌍 Region-wise sales insights  
 - 💰 Revenue and quantity analysis  
-- 🔍 Interactive filters  
+- 📊 Pivot tables and charts  
 
 ---
 
@@ -41,7 +40,7 @@ The dataset includes:
 
 ## 📊 Dashboard Preview  
 
-![Dashboard Screenshot](Smartphone_Analysis.png)
+![Dashboard Screenshot](smartphone_analysis.png)
 
 ---
 
@@ -54,14 +53,14 @@ The dataset includes:
 ---
 
 ## 🚀 How to Use  
-1. Download the `.pbix` file from this repository  
-2. Open it in Power BI Desktop  
-3. Use filters to explore insights  
+1. Download the Excel file from this repository  
+2. Open it in Microsoft Excel  
+3. Explore the dashboard using filters and charts  
 
 ---
 
 ## 📌 Conclusion  
-This project helps understand smartphone sales patterns and supports better business decision-making using data visualization.
+This project helps in understanding smartphone sales patterns and supports better business decision-making using Excel-based data analysis.
 
 ---
 
