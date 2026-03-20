@@ -40,7 +40,7 @@ The dataset includes:
 
 ## 📊 Dashboard Preview  
 
-![Dashboard Screenshot](smartphone_analysis.png)
+![Dashboard Screenshot](Smartphone_Analysis.png)
 
 ---
 
