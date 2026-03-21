@@ -1,11 +1,11 @@
-# 📱 Smartphone Sales Analysis (Excel Dashboard)
+# Smartphone Sales Analysis (Excel Dashboard)
 
-## 📌 Project Overview  
+## Project Overview  
 This project focuses on analyzing smartphone sales data using Microsoft Excel. It provides insights into sales performance, trends, and patterns across different brands, regions, and time periods through an interactive dashboard.
 
 ---
 
-## 🎯 Objectives  
+## Objectives  
 - Analyze overall smartphone sales performance  
 - Identify top-performing brands and models  
 - Understand regional sales distribution  
@@ -14,21 +14,21 @@ This project focuses on analyzing smartphone sales data using Microsoft Excel. I
 
 ---
 
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 - Microsoft Excel (Data Cleaning, Analysis & Dashboard)
 
 ---
 
-## 📊 Dashboard Features  
-- 📈 Sales trend analysis  
-- 🏆 Top brands and models comparison  
-- 🌍 Region-wise sales insights  
-- 💰 Revenue and quantity analysis  
-- 📊 Pivot tables and charts  
+## Dashboard Features  
+-  Sales trend analysis  
+-  Top brands and models comparison  
+-  Region-wise sales insights  
+-  Revenue and quantity analysis  
+-  Pivot tables and charts  
 
 ---
 
-## 📂 Dataset  
+## Dataset  
 The dataset includes:  
 - Smartphone brands and models  
 - Sales quantity  
@@ -38,13 +38,13 @@ The dataset includes:
 
 ---
 
-## 📊 Dashboard Preview  
+## Dashboard Preview  
 
 ![Dashboard Screenshot](Smartphone_Analysis.png)
 
 ---
 
-## 🔍 Key Insights  
+## Key Insights  
 - Top brands dominate the overall market share  
 - Regional differences impact sales performance  
 - Seasonal trends influence smartphone sales  
@@ -52,17 +52,17 @@ The dataset includes:
 
 ---
 
-## 🚀 How to Use  
+## How to Use  
 1. Download the Excel file from this repository  
 2. Open it in Microsoft Excel  
 3. Explore the dashboard using filters and charts  
 
 ---
 
-## 📌 Conclusion  
+## Conclusion  
 This project helps in understanding smartphone sales patterns and supports better business decision-making using Excel-based data analysis.
 
 ---
 
-## 📎 Author  
+## Author  
 **Sakshi More**
